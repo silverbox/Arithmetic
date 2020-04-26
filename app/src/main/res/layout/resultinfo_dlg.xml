@@ -10,6 +10,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/colorbar_answer"
-        android:src="@drawable/face_ok" />
+        android:contentDescription="@string/strres_faceimg"
+        android:src="@drawable/face_ng" />
 
 </LinearLayout>

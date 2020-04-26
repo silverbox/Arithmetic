@@ -24,5 +24,6 @@
         <item >Opps!</item>
         <item >Oh my god!</item>
     </string-array>
-    
+    <string name="strres_faceimg">Face Image</string>
+
 </resources>

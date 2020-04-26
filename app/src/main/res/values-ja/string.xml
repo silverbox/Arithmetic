@@ -24,5 +24,6 @@
         <item >あれ~？</item>
         <item >もういっかい！</item>
     </string-array>
-    
+    <string name="strres_faceimg">顔の画像</string>
+
 </resources>
