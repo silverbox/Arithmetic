@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">さんすう</string>
+    <string name="calctype_easy_add">かんたんたしざん</string>
+    <string name="calctype_easy_sub">かんたんひきざん</string>
+    <string name="calctype_riseup_add">くりあがりたしざん</string>
+    <string name="calctype_riseup_sub">くりさがりひきざん</string>
+    <string name="strres_answer">けってい</string>
+    <string name="strres_clear">やりなおし</string>
+    <string name="strres_pass">パス</string>
+    <string name="strres_hint1">ヒント１</string>
+    <string name="strres_hint2">ヒント２</string>
+    <string name="strres_nextquestion">つぎのもんだい</string>
+    <string name="strres_showhint">ヒントをみて</string>
+    <string-array name="strres_collectmsg">
+        <item >せいかい！！</item>
+        <item >すごーい！！</item>
+        <item >やったね！</item>
+    </string-array>
+    <string-array name="strres_incollectmsg">
+        <item >ざんねん！</item>
+        <item >あれ~？</item>
+        <item >もういっかい！</item>
+    </string-array>
+    
+</resources>

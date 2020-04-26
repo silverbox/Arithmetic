@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Elementary Arithmetic</string>
+    <string name="calctype_easy_add">Basic addition</string>
+    <string name="calctype_easy_sub">Basic subtraction</string>
+    <string name="calctype_riseup_add">Addition(increase in digit)</string>
+    <string name="calctype_riseup_sub">Subtraction(decrease in digit)</string>
+    <string name="strres_answer">Answer</string>
+    <string name="strres_clear">Clear</string>
+    <string name="strres_pass">Pass</string>
+    <string name="strres_hint1">Hint 1</string>
+    <string name="strres_hint2">Hint 2</string>
+    <string name="strres_nextquestion">Next question</string>
+    <string name="strres_showhint">Show hint!!</string>
+    <string-array name="strres_collectmsg">
+        <item >Right!!</item>
+        <item >Great!!</item>
+        <item >You did it!</item>
+    </string-array>
+    <string-array name="strres_incollectmsg">
+        <item >Try again！</item>
+        <item >Opps!</item>
+        <item >Oh my god!</item>
+    </string-array>
+    
+</resources>

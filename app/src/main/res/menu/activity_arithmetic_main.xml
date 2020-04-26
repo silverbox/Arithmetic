@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_calctype_easy_add"
+        android:orderInCategory="10"
+        android:title="@string/calctype_easy_add" android:checked="true" android:checkable="true"/>
+    <item android:id="@+id/menu_calctype_easy_sub" android:title="@string/calctype_easy_sub" android:checked="true" android:checkable="true" android:orderInCategory="20"></item>
+    <item android:id="@+id/menu_calctype_riseup_add" android:title="@string/calctype_riseup_add" android:checked="true" android:checkable="true" android:orderInCategory="30"></item>
+    <item android:id="@+id/menu_calctype_riseup_sub" android:title="@string/calctype_riseup_sub" android:checked="true" android:checkable="true" android:orderInCategory="40"></item>
+
+</menu>
